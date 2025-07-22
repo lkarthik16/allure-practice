@@ -1,1 +1,1 @@
-{"uid":"83edc06c07f9ae9e47eb6dd1b683e4e2","children":[],"name":"packages"}
+{"uid":"83edc06c07f9ae9e47eb6dd1b683e4e2","name":"packages","children":[{"name":"facebook.spec.js","children":[{"name":"locators","uid":"538a5a0404fee9c7","parentUid":"7fe163d0a3f438791f2d43ee99f7521e","status":"passed","time":{"start":1753169914613,"stop":1753169924920,"duration":10307},"flaky":false,"newFailed":false,"newPassed":false,"newBroken":false,"retriesCount":0,"retriesStatusChange":false,"parameters":["chromium"],"tags":[]}],"uid":"facebook.spec.js"}]}
